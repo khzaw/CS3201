@@ -59,3 +59,4 @@ tramp
 # AUCTeX auto folder
 /auto/
 
+*.pdf
