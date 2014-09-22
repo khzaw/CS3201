@@ -33,4 +33,3 @@ int main() {
   cout << "Product is " << prod.str() << endl;
   return 0;
 }
-
